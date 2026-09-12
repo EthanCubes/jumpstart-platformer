@@ -9,6 +9,9 @@ Simple platformer game made in Godot!
 - Movement & physics
 - Pretty fun
 
+## How to play
+Use the WASD or arrow keys to move. Try to get to the top and don't fall!
+
 ## Credits
 - This game was made for Haven Jumpstart, thanks for giving me the opportunity to learn Godot and to host a game jam!
 - This project was made in [Godot](https://godotengine.org/). The movement script is Godot 2D movement boilerplate code, slightly modified to change the keybinds
